@@ -5,7 +5,7 @@ export function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1>Hello World!</h1>
+    <h1 className='bg-cyan-500 text-2xl'>Hello World!</h1>
   )
 }
 
